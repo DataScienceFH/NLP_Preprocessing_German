@@ -1,4 +1,4 @@
-# Natural Language Processing (NLP): General Preprocessing Pipeline (focussed on German)
+# Natural Language Processing (NLP): Generalized Preprocessing Pipeline (focussed on German)
 
 ## Description
 
