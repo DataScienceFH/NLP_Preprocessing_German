@@ -15,7 +15,7 @@ Additionally, it utilizes:
 
     NLP_Custom_German_StopWords.txt
     
-, a file containing custom German stop words for more refined text processing.
+, a file containing custom German stop words that have been derived from prior chat data analysis for more refined text processing.
 
 ## Output
 
